@@ -141,15 +141,15 @@ h1 {
 
 .unit-container.expanded {
   padding: 25px;
-  background-color: #fff9fa; /* Slightly larger padding to show it's expanded */
+  background-color: #fff9fa;
 }
 
 .unit-sub-container {
-  display: none; /* Hidden by default */
+  display: none;
 }
 
 .unit-container.expanded .unit-sub-container {
-  display: flex; /* Shown only when expanded */
+  display: flex;
 }
 
 .total {
